@@ -1,7 +1,7 @@
 # IA-Chat
 
 Privacy Policy
-Effective date: August 24, 2019
+Effective date: May 4, 2023
 
 IA Chat ("us", "we", or "our") operates the IA Chat mobile application (hereinafter referred to as the "Service").
 
